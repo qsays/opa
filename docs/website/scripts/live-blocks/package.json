@@ -18,7 +18,7 @@
     "test": "node -r esm ./node_modules/.bin/mocha"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0",
     "codemirror": "^5.48.4",
     "codemirror-rego": "^1.1.0",
     "esm": "^3.2.25",
